@@ -39,10 +39,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Guna.UI2">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
+      <HintPath>..\..\CSharpBeautifulThemes-main\CSharpBeautifulThemes-main\Libraries\Guna.UI2\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
+      <HintPath>..\..\CSharpBeautifulThemes-main\CSharpBeautifulThemes-main\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
