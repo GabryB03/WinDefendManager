@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|c:\\users\\bolog\\desktop\\windefendmanager\\resources\\enablewd.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|solutionrelative:resources\\enablewd.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|C:\\Users\\bolog\\Desktop\\WinDefendManager\\resources\\disablewd.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|solutionrelative:resources\\disablewd.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|C:\\Users\\bolog\\Desktop\\WinDefendManager\\main\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44984F52-6025-4292-BDA4-3B938BE21AC6}|WinDefendManager.csproj|solutionrelative:main\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnableWD.bat",
+              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Resources\\EnableWD.bat",
+              "RelativeDocumentMoniker": "Resources\\EnableWD.bat",
+              "ToolTip": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Resources\\EnableWD.bat",
+              "RelativeToolTip": "Resources\\EnableWD.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-11T05:50:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisableWD.bat",
+              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Resources\\DisableWD.bat",
+              "RelativeDocumentMoniker": "Resources\\DisableWD.bat",
+              "ToolTip": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Resources\\DisableWD.bat",
+              "RelativeToolTip": "Resources\\DisableWD.bat",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-11T05:37:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Main\\MainForm.cs",
+              "RelativeDocumentMoniker": "Main\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bolog\\Desktop\\WinDefendManager\\Main\\MainForm.cs",
+              "RelativeToolTip": "Main\\MainForm.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:37:25.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

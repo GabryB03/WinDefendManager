@@ -64,4 +64,11 @@ for %%j in (
 :: Group Policies
 reg delete "HKLM\Software\Policies\Microsoft\Windows Defender" /f >NUL 2>nul
 
+:: New entries
+reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings\Windows.SystemToast.SecurityAndMaintenance" /v "Enabled" /t REG_DWORD /d "1" /f >NUL 2>nul
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Edge\SmartScreenEnabled" /v "@" /t REG_DWORD /d "1" /f >NUL 2>nul
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\WTDS\Components" /v "ServiceEnabled" /t REG_DWORD /d "01 /f >NUL 2>nul
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\AppHost" /v "PreventOverride" /t REG_DWORD /d "1" /f >NUL 2>nul
+reg add "HKLM\SYSTEM\ControlSet001\Control\WMI\Autologger\DefenderApiLogger'" /v "Start" /t REG_DWORD /d "1" /f >NUL 2>nul
+
 goto :EOF
